@@ -9,3 +9,5 @@ pip install python
 pip install pygame
 
 pip install pgzrun
+
+Note: The game must be in the same directory as the images folder for it to work properly.
